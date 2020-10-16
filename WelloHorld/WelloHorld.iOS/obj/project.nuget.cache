@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwUr2HwXg4GBzc+IwqugT0hVn4W4NjZhlql0o5jeYlDjQD99+zLHhtPVbHb6pq106RabijhJ6uqGCebqnlnWGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amadeu\\source\\repos\\WelloHorld\\WelloHorld\\WelloHorld.iOS\\WelloHorld.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

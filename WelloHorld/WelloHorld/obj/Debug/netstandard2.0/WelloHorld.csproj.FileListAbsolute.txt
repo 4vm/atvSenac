@@ -1,0 +1,14 @@
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\bin\Debug\netstandard2.0\WelloHorld.deps.json
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\bin\Debug\netstandard2.0\WelloHorld.dll
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\bin\Debug\netstandard2.0\ref\WelloHorld.dll
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\bin\Debug\netstandard2.0\WelloHorld.pdb
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\WelloHorld.csprojAssemblyReference.cache
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\WelloHorld.AssemblyInfoInputs.cache
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\WelloHorld.AssemblyInfo.cs
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\WelloHorld.csproj.CoreCompileInputs.cache
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\WelloHorld.dll
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\ref\WelloHorld.dll
+C:\Users\Amadeu\source\repos\WelloHorld\WelloHorld\WelloHorld\obj\Debug\netstandard2.0\WelloHorld.pdb
